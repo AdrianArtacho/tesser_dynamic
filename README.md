@@ -1,6 +1,6 @@
 # README #
 
-Y si lo cambio ora vez?
+Y si lo cambio otra vez?
 
 ### What is this repository for? ###
 
