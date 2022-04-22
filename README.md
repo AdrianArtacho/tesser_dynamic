@@ -2,34 +2,18 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 ![TTESS:Logo](https://bitbucket.org/AdrianArtacho/tesserakt/raw/HEAD/TESSER_logo.png)
 
+# Tesser_dynamic
 
-# Tesser_dynamic #
+Una ï¿½ltima vez.
 
-          
-Una última vez.
+![TESS:dynamic](https://docs.google.com/drawings/d/e/2PACX-1vTFz-BIjHCnGcVOHGNtGvxH6-pp39pE2N4v42ppyOoc2yPgZbbV-uWtVSVUMblZlvqmPidXTsX4i8Sf/pub?w=353&h=267)
 
-### What is this repository for? ###
+### Usage
 
 * Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+____
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+# To-Do
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Document
