@@ -4,7 +4,7 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 # Tesser_dynamic
 
-Una �ltima vez.
+What does this damm thing do?
 
 ![TESS:dynamic](https://docs.google.com/drawings/d/e/2PACX-1vTFz-BIjHCnGcVOHGNtGvxH6-pp39pE2N4v42ppyOoc2yPgZbbV-uWtVSVUMblZlvqmPidXTsX4i8Sf/pub?w=353&h=267)
 
