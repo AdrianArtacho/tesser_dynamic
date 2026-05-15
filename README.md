@@ -1,6 +1,6 @@
 # Tesser_dynamic
 
-What does this damm thing do?
+This device manipulates midi velocities.
 
 ![TESS:dynamic](img/gui.png)
 
